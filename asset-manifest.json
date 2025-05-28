@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.da355d5b.css",
-    "main.js": "/static/js/main.6e7074ed.js",
-    "static/js/453.ff004f4c.chunk.js": "/static/js/453.ff004f4c.chunk.js",
-    "index.html": "/index.html",
-    "main.da355d5b.css.map": "/static/css/main.da355d5b.css.map",
-    "main.6e7074ed.js.map": "/static/js/main.6e7074ed.js.map",
-    "453.ff004f4c.chunk.js.map": "/static/js/453.ff004f4c.chunk.js.map"
+    "main.css": "/airsoft-calculator/static/css/main.da355d5b.css",
+    "main.js": "/airsoft-calculator/static/js/main.2170a5af.js",
+    "static/js/453.ff004f4c.chunk.js": "/airsoft-calculator/static/js/453.ff004f4c.chunk.js",
+    "index.html": "/airsoft-calculator/index.html",
+    "main.da355d5b.css.map": "/airsoft-calculator/static/css/main.da355d5b.css.map",
+    "main.2170a5af.js.map": "/airsoft-calculator/static/js/main.2170a5af.js.map",
+    "453.ff004f4c.chunk.js.map": "/airsoft-calculator/static/js/453.ff004f4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da355d5b.css",
-    "static/js/main.6e7074ed.js"
+    "static/js/main.2170a5af.js"
   ]
 }
