@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/airsoft-calculator/static/css/main.da355d5b.css",
+    "main.css": "/airsoft-calculator/static/css/main.f5b1d768.css",
     "main.js": "/airsoft-calculator/static/js/main.9c8bc5a5.js",
     "static/js/453.ff004f4c.chunk.js": "/airsoft-calculator/static/js/453.ff004f4c.chunk.js",
     "index.html": "/airsoft-calculator/index.html",
-    "main.da355d5b.css.map": "/airsoft-calculator/static/css/main.da355d5b.css.map",
+    "main.f5b1d768.css.map": "/airsoft-calculator/static/css/main.f5b1d768.css.map",
     "main.9c8bc5a5.js.map": "/airsoft-calculator/static/js/main.9c8bc5a5.js.map",
     "453.ff004f4c.chunk.js.map": "/airsoft-calculator/static/js/453.ff004f4c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da355d5b.css",
+    "static/css/main.f5b1d768.css",
     "static/js/main.9c8bc5a5.js"
   ]
 }
